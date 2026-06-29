@@ -1,0 +1,14 @@
+product_id,product_name,category,description,keywords,protocols,connectivity,mount_type,cloud_service,source
+UCS-X1,UCS X1 IIoT Module,Hardware,IIoT gateway: RS-232/RS-485/Ethernet Modbus ASCII to UCS CLOUD via NB-IoT. 8-36V DC 152x94x45mm.,"x1,modbus,nb-iot,lpwan,gateway,weighing,indicator,plc","Modbus,ASCII","NB-IoT,LPWAN",Desk/Wall,UCS CLOUD,clients_package
+UCS-X1-DIN,UCS X1 DIN IIoT Module,Hardware,DIN-rail X1 module. Same connectivity in 54x63x90mm 100g housing.,"x1,din,din-rail,modbus,nb-iot,panel,plc","Modbus,ASCII","NB-IoT,LPWAN",DIN Rail,UCS CLOUD,clients_package
+UCS-X2,UCS X2 IIoT Module,Hardware,Multi-core CPU backup battery improved NB-IoT temp/humidity monitoring. Successor to X1.,"x2,battery,nb-iot,weighing,iiot,real-time","Modbus,ASCII","NB-IoT,LPWAN",Desk/Wall,UCS CLOUD,clients_package
+UCS-X2-DIN,UCS X2 DIN IIoT Module,Hardware,DIN-rail X2 for OEM panel integration with backup battery and enhanced NB-IoT.,"x2,din,oem,panel,nb-iot,diagnostics","Modbus,ASCII","NB-IoT,LPWAN",DIN Rail,UCS CLOUD,clients_package
+UCS-CLOUD,UCS CLOUD Service,Software,Cloud dashboard history email/SMS alarms REST API secure storage 24/7 access.,"cloud,dashboard,alarms,sms,email,rest api,saas,subscription",REST API,Cloud,N/A,UCS CLOUD,clients_package
+M740D,Utilcell M740D Digital Load Cell,Hardware,Digital compression load cell 15-60t OIML R60 C RS-485 IP68 truck scales.,"m740d,load cell,digital,15-60t,truck scale,oiml,r60,rs485",Modbus,RS-485,Load cell,UCS CLOUD,clients_package
+M740-60T,Utilcell M740 15-60t,Hardware,Heavy-capacity load cell for truck scales and weighbridges.,"m740,truck scale,weighbridge,15-60t,heavy,load cell",Modbus,RS-485,Load cell,UCS CLOUD,clients_package
+WDESK-BL,WDESK-BL Indicator,Hardware,Utilcell weighing indicator desk unit.,"wdesk,indicator,display,desk,weighing","Modbus,ASCII","RS-232,RS-485",Desk,UCS CLOUD,clients_package
+Smart-Digital,Utilcell Smart-Digital,Hardware,Smart digital weighing transmitter.,"smart digital,transmitter,indicator,utilcell",Modbus,RS-485,Panel,UCS CLOUD,clients_package
+CLM8,Utilcell CLM8,Hardware,Compact weighing module CE type approved.,"clm8,compact,weighing,module,ce",Modbus,RS-485,Compact,UCS CLOUD,clients_package
+SensWEIGHT,SensWEIGHT Solution,Solution,Remote wireless monitoring for scales weighbridges belt scales silos. European patent IIoT SaaS.,"sensweight,weighing,weighbridge,belt scale,silo,remote,diagnostics,iiot,patent",Modbus,"NB-IoT,LPWAN",N/A,UCS CLOUD,clients_package
+SensSILO,SensSILO Solution,Solution,Silo inventory security and structural monitoring 24/7. Works with existing silos.,"senssilo,silo,agriculture,grain,inventory,theft,structural,cement",Modbus,"NB-IoT,LPWAN",N/A,UCS CLOUD,clients_package
+SensVibra,SensVibra Solution,Solution,Vibration monitoring for industrial predictive maintenance.,"sensvibra,vibration,monitoring,predictive,maintenance",Modbus,"NB-IoT,LPWAN",N/A,UCS CLOUD,clients_package

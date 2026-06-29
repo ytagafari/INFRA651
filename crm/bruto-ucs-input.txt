@@ -1,0 +1,28 @@
+Summary
+On June 9, 2026, a meeting took place between Miloš, a colleague, and Nikola, where they discussed the implementation of the Laumas system and a camera system. Miloš promised the implementation of UCS-X3 on DiniArgeo and emphasized the need to deliver various information and materials for the successful execution of the project.
+
+Key Points
+📅 Meeting Date: June 9, 2026
+💻 Implementation: Laumas and UCS-X3 on DiniArgeo
+📷 Camera System: Focus on SW implementation, not selling HW
+🔧 Delivery: Computer and cameras, Bruto will handle the installation
+📄 Required Information: Certificate D, price list, marketing materials
+📈 Potential: Miloš sees a potential of 10 scales per year, but needs help with clients in Slovakia
+June 9, 2026 Bruto: Miloš, Colleague & Nikola
+The Bruto team is ready for the Laumas implementation; they are very well acquainted with the system via M500.
+
+Miloš promised me that he would also implement UCS-X3 on DiniArgeo; he will keep me updated.
+
+We talked about the camera system; Nikola explained that our goal is not to sell HW, but rather SW implementation.
+
+Miloš sees the M500 scale as a good point for camera implementation; we are to provide the computer and cameras; Bruto will handle the mechanical and cable installation.
+
+We have just ordered stickers that will serve as confirmation of the completed calibration - they will be placed directly on the scale after each calibration is performed. I think this will be a practical and professional addition to the whole system.
+
+He needs the following information:
+Certificate D from Laumas
+Price list for the certificate
+Cameras + computer -> Ryant
+Marketing materials (UCS + Bruto) -> HTML leaflets (EN+SK)
+Laumas documentation (computer protocol, Modbus protocol, calibration, technical manuals, ideally a video)
+Miloš has a potential of 10 scales per year, but he is willing to help with clients in Slovakia.
