@@ -1,0 +1,10 @@
+timestamp,opportunity_id,company,meeting_date,sales_rep,sales_rep_email,discussion_topics,notes,status,last_updated
+
+2026-06-10T09:30:00Z,OPP-2026-0142,AgriScale GmbH,2026-06-12,Jan Novak,jan.novak@unifiedcloudsensors.eu,"SensSILO, silo monitoring, agriculture, grain, pricing, SaaS","38 grain silos Bavaria. Wants silo leaflet and SensWEIGHT SaaS tiers.",New,
+
+2026-06-11T14:15:00Z,OPP-2026-0158,Industrial Weigh Co,2026-06-18,Marie Dubois,marie.dubois@unifiedcloudsensors.eu,"truck scale, M740, digitalization, OIML R76, CE certification, OEM","OEM weighbridge builder. Needs M740 datasheet and truck scale offer PDF.",Updated,
+
+2026-06-13T11:00:00Z,OPP-2026-0163,CementPlant Logistics,2026-06-25,Petr Svoboda,petr.svoboda@unifiedcloudsensors.eu,"silo, theft, security, SensWEIGHT, cement, structural monitoring","Cement plant - Case 01 style theft concern. Wants silo marketing PDF.",New,
+
+2026-06-09T10:00:00Z,OPP-2026-0171,Bruto,2026-06-09,Nikola,nikola@unifiedcloudsensors.eu,"Laumas, UCS-X3, DiniArgeo, camera system, Modbus, certificate, pricing, marketing, Slovakia, scales","Bruto Laumas M500. UCS-X3 on DiniArgeo. ~10 scales/year Slovakia.",New,
+

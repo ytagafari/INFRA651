@@ -1,0 +1,7 @@
+product_id,sku,list_price_eur,currency,price_tier,pricing_model,notes,source
+SensWEIGHT,SW-BASIC-1-9,59,EUR,Basic 1-9 devices/month,SaaS,Per device/month. Annual €708 (5% discount). Source: SensWEIGHT_SaaS_Pricing.pdf,clients_package
+SensWEIGHT,SW-ADVANCED-1-9,99,EUR,Advanced 1-9 devices/month,SaaS,Per device/month. Annual €1188.,clients_package
+SensWEIGHT,SW-PRO-1-9,199,EUR,Professional 1-9 devices/month,SaaS,Per device/month. Annual €2388.,clients_package
+SensWEIGHT,SW-ENTERPRISE-1-9,299,EUR,Enterprise 1-9 devices/month,SaaS,Per device/month. Annual €3588.,clients_package
+UCS-CLOUD,UCS-CLOUD-SUB,Quote on request,EUR,Cloud subscription,Consultation,Bundled with hardware project scope,clients_package
+M740-60T,M740-TRUCK-OFFER,See PDF,EUR,Truck scale package,Project,pricing/Load cell offer digital truck scale.pdf,clients_package

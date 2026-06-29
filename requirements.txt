@@ -1,0 +1,4 @@
+# Core runtime (stdlib)
+# Optional — semantic vector search:
+sentence-transformers>=3.0.0
+numpy>=1.24.0

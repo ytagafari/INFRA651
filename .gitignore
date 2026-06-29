@@ -1,0 +1,9 @@
+.env
+agent/runs/
+agent/profiles/
+knowledge-base/embeddings/
+__pycache__/
+*.pyc
+ngrok.exe
+scripts/_run_log.txt
+scripts/_zip_inspect.json

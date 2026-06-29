@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ucs-crm-agent
+    runtime: python
+    buildCommand: pip install -r requirements.txt && python scripts/import_clients_package.py && python scripts/build_embeddings.py
+    startCommand: python -m agent.webhook_server
+    envVars:
+      - key: CRM_WEBHOOK_SECRET
+        sync: false
+      - key: WEBHOOK_HOST
+        value: 0.0.0.0
+      - key: RETRIEVAL_MODE
+        value: hybrid

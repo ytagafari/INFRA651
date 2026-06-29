@@ -1,0 +1,5 @@
+field,description,keywords,products
+weighing,Truck/belt/weighbridge scale monitoring,"weighing,truck scale,belt scale,weighbridge,sensweight","SensWEIGHT,M740-60T"
+agriculture,Silo grain inventory and structural monitoring,"agriculture,silo,grain,farm,senssilo,sensweight","SensSILO,SensWEIGHT"
+construction,Cement plant silo security and inventory,"cement,plant,silo,security,inventory","SensSILO,SensWEIGHT"
+oem,OEM digital truck scale load cells,"oem,truck scale,digital,load cell,m740","M740D,M740-60T,UCS-X2-DIN"
